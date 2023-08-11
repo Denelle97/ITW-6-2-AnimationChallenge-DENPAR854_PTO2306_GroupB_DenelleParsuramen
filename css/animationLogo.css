@@ -32,7 +32,7 @@ body{
     font-size: 26px;
     transition: 0.2s linear;
   }
-
+/*hover over changes */
   .fa:hover i{
     transform: scale(1.3);
     color: #f1f1f1;
@@ -55,6 +55,7 @@ body{
     left: -10%;
   }
 
+  /* animation */
   @keyframes dee {
     0%{
       left: -110%;
